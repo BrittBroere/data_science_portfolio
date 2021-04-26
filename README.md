@@ -9,4 +9,4 @@ This portfolio contains data science projects completed by me for academic, self
   * Sentiment analysis: a sentiment classification task on movie review data using Doc2Vec in Python.
 
 * Visualization
-  * COVID-19 dashboard: an interactive dashboard about the spread of the corona virus in The Netherlands.
+  * [COVID-19 dashboard](https://github.com/BrittBroere/data_science_portfolio/blob/master/COVID-19%20NL/COVID19_interactive_dashboard_Netherlands.ipynb): an interactive dashboard about the spread of the corona virus in The Netherlands.
